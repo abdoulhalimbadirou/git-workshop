@@ -4,3 +4,5 @@ Cette ligne va apparaitre dans le git diff!!!
 Toto rajoute cette ligne sur l'origin
 
 Voici mes impressions sur la formation extraordinaire de Ludo. C'est magique comme le PSG. 
+
+Ceci est un correctif. Merci à Ludo. C'est lui le meilleur. 
